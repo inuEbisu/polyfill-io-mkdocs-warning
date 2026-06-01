@@ -4,9 +4,7 @@
 > 
 > TL;DR: 如果你遇到了该弹窗，不要输入任何密码；如果你的 MkDocs / Material for MkDocs 站点或其他站点引用了 `polyfill.io`，请尽快删除这行配置。
 
-co-authored by [5dbwat4](https://github.com/5dbwat4); assisted by GPT-5.5
-
-从 MkDocs 笔记中的 polyfill.io 弹窗看一次迟到的供应链风险清理。
+Co-authored by [5dbwat4](https://github.com/5dbwat4).
 
 ## Abstract
 
