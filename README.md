@@ -1,3 +1,5 @@
+# 众多 MkDocs 笔记遭 polyfill.io 供应链投毒而弹窗
+
 > 本文基于 2026 年 6 月对若干公开课程文档、个人笔记站和历史配置来源的排查。
 > 
 > TL;DR: 如果你的 MkDocs / Material for MkDocs 站点或其他站点引用了 `polyfill.io`，请尽快删除这行配置。
