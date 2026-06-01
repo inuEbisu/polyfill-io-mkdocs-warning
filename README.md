@@ -2,7 +2,7 @@
 
 > 本文基于 2026 年 6 月对若干公开课程文档、个人笔记站和历史配置来源的排查。
 > 
-> TL;DR: 如果你的 MkDocs / Material for MkDocs 站点或其他站点引用了 `polyfill.io`，请尽快删除这行配置。
+> TL;DR: 如果你遇到了该弹窗，不要输入任何密码；如果你的 MkDocs / Material for MkDocs 站点或其他站点引用了 `polyfill.io`，请尽快删除这行配置。
 
 co-authored by [5dbwat4](https://github.com/5dbwat4); assisted by GPT-5.5
 
