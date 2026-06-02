@@ -137,7 +137,7 @@ extra_javascript:
 - 2024-06-26：Cloudflare 发布自动改写 `polyfill.io` 链接到 Cloudflare 镜像的缓解措施，并建议移除 `polyfill.io`。
 - 2024-06-26：MathJax 文档提交 `58cf5ae96efc7199aefc7ed9ffb06a85c53122c2` 删除原 `polyfill.io` 示例；同日前后的文档更新加入相关警告。
 - 2024-06-26：Material for MkDocs 文档提交 `12a8e82837fe400dd1f123e41d75b32987a11744` 移除 `polyfill.io` 引用。
-- 2026-06：仍可在一些公开课程文档和个人笔记站中看到历史配置残留，并触发来自 `polyfill.io` 的 Basic Auth 弹窗。
+- 2026-06：`polyfill.io` 开启 Basic Auth，大量公开课程文档和个人笔记站出现账号密码弹窗。
 
 ## 参考资料
 
